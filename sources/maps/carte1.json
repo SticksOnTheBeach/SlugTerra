@@ -1,0 +1,773 @@
+{
+  "Marchands": [
+    {
+      "position": [5, 9],
+      "inventaire": ["ITEM_POTION1", "ITEM_ANTIDOTE", "ITEM_SWORD1"]
+    }
+  ],
+  "Monstres": ["CHARA_GOON"
+  ],
+  "Coffres": [
+    {
+      "position": [
+        0,
+        1
+      ],
+      "contenu": [
+        "ITEM_SWORD1",
+        "ITEM_POTION1"
+      ]
+    },
+    {
+      "position": [
+        9,
+        7
+      ],
+      "contenu": [
+        "ITEM_KEY"
+      ]
+    }
+  ],
+  "Teleports": [
+    {
+      "emplacement": [
+        13,
+        6
+      ],
+      "carte_cible": "carte2",
+      "coordonnees_cibles": [
+        0,
+        6
+      ]
+    },
+    {
+      "emplacement": [
+        13,
+        7
+      ],
+      "carte_cible": "carte2",
+      "coordonnees_cibles": [
+        0,
+        7
+      ]
+    }
+  ],
+  "Carte": [
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_FENCE_B_HORIZONTAL1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_HOUSE3"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_HOUSE4"
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_HOUSE1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_HOUSE2"
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_FENCE_B_HORIZONTAL1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_FENCE_B_HORIZONTAL1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_FENCE_B_HORIZONTAL1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_FENCE_B_HORIZONTAL1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_FENCE_B_HORIZONTAL1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_HOME"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": "T_GRASS1"
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_COBBLE_ROAD",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      },
+      {
+        "couche1_id": "T_GRASS1",
+        "couche2_id": null
+      }
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "nom": "carte1",
+    "position_heros": [
+        4,
+        6
+    ],
+    "or": 1000,
+    "inventaire": [
+        "ITEM_KEY"
+    ],
+    "nb_pas": null,
+    "equipe": ["CHARA_ENIGMO", "CHARA_GOON"]
+}

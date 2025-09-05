@@ -1,0 +1,57 @@
+{
+  "ITEM_POTION1": {
+    "Nom": "Potion de soin mineur",
+    "Prix": 100,
+    "Vie": 10,
+    "Mana": 0,
+    "Status": null,
+    "Force": 0,
+    "Icon": "ITEM_potion1.png"
+
+ },
+
+  "ITEM_SWORD1": {
+    "Nom": "Epée de Niveau 1",
+    "Prix": 200,
+    "Vie": 0,
+    "Mana": 0,
+    "Status": null,
+    "Force": 4,
+    "Icon": "ITEM_epee1.png"
+
+  },
+
+  "ITEM_ANTIDOTE": {
+    "Nom": "Antidote",
+    "Prix": 150,
+    "Vie": 50,
+    "Mana": 10,
+    "Status": null,
+    "Force": 0,
+    "Icon": "ITEM_antidote.png"
+
+  },
+
+  "ITEM_KEY": {
+    "Nom": " Clé ",
+    "Prix": 0,
+    "Vie": 0,
+    "Mana": 0,
+    "Status": null,
+    "Force": 0,
+    "Icon": "ITEM_cle.png"
+
+  },
+
+  "ITEM_WEAPON": {
+    "Nom": " Panzerkampfwagen VI Tiger ",
+    "Prix": 500000,
+    "Vie": 0,
+    "Mana": 500,
+    "Status": null,
+    "Force": 10000,
+    "Icon": "ITEM_BLASTER_PR.png"
+
+  }
+
+}

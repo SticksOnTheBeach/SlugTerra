@@ -1,0 +1,76 @@
+{
+    "CHARA_RAMMSTONE": {
+        "nom": "Rammstone",
+        "mana": 0,
+        "vie": 50,
+        "portrait": "Rammstone.png",
+        "force": 10,
+        "magie": 0,
+        "experience": 0,
+        "type": "Personnage"
+    },
+    "CHARA_ENIGMO": {
+        "nom": "Enigmo",
+        "mana": 30,
+        "vie": 30,
+        "portrait": "Enigmo.png",
+        "force": 6,
+        "magie": 0,
+        "experience": 0,
+        "type": "Personnage",
+        "sorts": [
+        {
+            "nom": "Heal",
+            "mana": 5,
+            "description": "Restaure 10 points de vie"
+        }
+    ]
+    },
+    "CHARA_INFURNUS": {
+        "nom": "Infurnus",
+        "mana": 40,
+        "vie": 30,
+        "portrait": "Infurnus.png",
+        "force": 3,
+        "magie": 7,
+        "experience": 0,
+        "type": "Personnage",
+         "sorts": [
+        {
+            "nom": "Fireball",
+            "mana": 10,
+            "description": "Inflige 20 dégâts"
+        }
+    ]
+    },
+    "CHARA_GOON":{
+        "nom": "Goon",
+        "mana": 0,
+        "vie": 50,
+        "portrait": "Goon.png",
+        "force": 10,
+        "magie": 0,
+        "experience": 10,
+        "type": "Monstre"
+    },
+    "CHARA_BUBBALASH":{
+        "nom": "Bubbalash",
+        "mana": 30,
+        "vie": 30,
+        "portrait": "Bubbalash.png",
+        "force": 6,
+        "magie": 0,
+        "experience": 15,
+        "type": "Monstre"
+    },
+    "CHARA_PEKUN":{
+        "nom": "Pekun",
+        "mana": 40,
+        "vie": 30,
+        "portrait": "Pekun.png",
+        "force": 3,
+        "magie": 7,
+        "experience": 25,
+        "type": "Monstre"
+    }
+}

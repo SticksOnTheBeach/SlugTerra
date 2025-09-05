@@ -1,0 +1,207 @@
+{
+  "T_GRASS": {
+    "nom": "Herbe",
+    "image": "T_grass.png",
+    "traversable": true
+  },
+  "T_DESERT": {
+    "nom": "Désert",
+    "image": "T_desert.png",
+    "traversable": true
+  },
+  "T_HOME": {
+    "nom": "Maison",
+    "image": "T_home.png",
+    "traversable": false
+  },
+  "T_SEA": {
+    "nom": "Mer",
+    "image": "T_sea.png",
+    "traversable": false
+  },
+  "T_SNOW": {
+    "nom": "Neige",
+    "image": "T_snow.png",
+    "traversable": true
+  },
+  "T_TREE": {
+    "nom": "Arbre",
+    "image": "T_tree.png",
+    "traversable": false
+  },
+  "T_HOUSE1": {
+    "nom": "Maison1",
+    "image": "House/T_house_down_left.png",
+    "traversable": false
+  },
+  "T_HOUSE2": {
+    "nom": "Maison2",
+    "image": "House/T_house_down_right.png",
+    "traversable": false
+  },
+  "T_HOUSE3": {
+    "nom": "Maison3",
+    "image": "House/T_house_up_left.png",
+    "traversable": false
+  },
+  "T_HOUSE4": {
+    "nom": "Maison4",
+    "image": "House/T_house_up_right.png",
+    "traversable": false
+  },
+  "T_GRASS1": {
+    "nom": "Herbe1",
+    "image": "T_grass_alt.png",
+    "traversable": true
+  },
+  "T_COBBLE_ROAD": {
+    "nom": "Chemin",
+    "image": "T_cobble_road.png",
+    "traversable": true
+  },
+  "T_FENCE_BG_COIN": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_lower_corner.png",
+    "traversable": false
+  },
+  "T_FENCE_B_HORIZONTAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_lower_horizontal_end.png",
+    "traversable": false
+  },
+  "T_FENCE_BG_VERTICAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_lower_vertical_end.png",
+    "traversable": false
+  },
+  "T_FENCE_HG_COIN": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_upper_corner.png",
+    "traversable": false
+  },
+  "T_FENCE_HG_HORIZONTAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_upper_horizontal_end.png",
+    "traversable": false
+  },
+  "T_FENCE_HG_VERTICAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_upper_vertical_end.png",
+    "traversable": false
+  },
+  "T_FENCE_G_VERTICAL_MILIEU": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_vertical_middle.png",
+    "traversable": false
+  },
+  "T_FENCE_HG_VERTICAL_FIN": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_upper_vertical_end.png",
+    "traversable": false
+  },
+  "T_FENCE_G_VERTICAL_SEUL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_vertical_solo.png",
+    "traversable": false
+  },
+  "T_FENCE_B_MILIEU": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_lower_middle.png",
+    "traversable": false
+  },
+  "T_FENCE_B_MILIEU_SEUL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_lower_middle_solo.png",
+    "traversable": false
+  },
+  "T_FENCE_BD_COIN": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_lower_corner.png",
+    "traversable": false
+  },
+  "T_FENCE_BD_HORIZONTAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_lower_horizontal_end.png",
+    "traversable": false
+  },
+  "T_FENCE_BD_VERTICAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_lower_vertical_end.png",
+    "traversable": false
+  },
+  "T_FENCE_HD_COIN": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_upper_corner.png",
+    "traversable": false
+  },
+  "T_FENCE_HD_HORIZONTAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_upper_horizontal_end.png",
+    "traversable": false
+  },
+  "T_FENCE_HD_VERTICAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_upper_vertical_end.png",
+    "traversable": false
+  },
+  "T_FENCE_D_MILIEU_VERTICAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_vertical_middle.png",
+    "traversable": false
+  },
+  "T_FENCE_D_VERTICAL_SEUL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_vertical_solo.png",
+    "traversable": false
+  },
+  "T_FENCE_H_MILIEU": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_upper_middle.png",
+    "traversable": false
+  },
+  "T_FENCE_H_MILIEU_SEUL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_upper_middle_solo.png",
+    "traversable": false
+  },
+  "T_FENCE_COIN_BG": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_lower_corner.png",
+    "traversable": false
+  },
+  "T_FENCE_COIN_BD": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_lower_corner.png",
+    "traversable": false
+  },
+  "T_FENCE_COIN_HG": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_upper_corner.png",
+    "traversable": false
+  },
+  "T_FENCE_COIN_HD": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_upper_corner.png",
+    "traversable": false
+  },
+  "T_FENCE_G_VERTICAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_left_vertical_middle.png",
+    "traversable": false
+  },
+  "T_FENCE_D_VERTICAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_right_vertical_middle.png",
+    "traversable": false
+  },
+  "T_FENCE_B_HORIZONTAL1": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_lower.png",
+    "traversable": false
+  },
+  "T_FENCE_H_HORIZONTAL": {
+    "nom": "Barrière",
+    "image": "Fence/Fence_upper.png",
+    "traversable": false
+  }
+}

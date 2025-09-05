@@ -1,0 +1,16 @@
+{
+    "nom": "carte1",
+    "position_heros": [
+        8,
+        7
+    ],
+    "inventaire": [
+        "ITEM_KEY",
+        "ITEM_KEY"
+    ],
+    "equipe": [
+        "CHARA_RAMMSTONE",
+        "CHARA_PEKUN"
+    ],
+    "nb_pas": 5
+}

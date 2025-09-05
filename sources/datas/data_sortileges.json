@@ -1,0 +1,47 @@
+{
+  "MAG_SOIN": {
+    "nom": "Soin mineur",
+    "mana": 5,
+    "force": 0,
+    "vie": 10,
+    "retire_status": null,
+    "inflige_status": null,
+    "icon": ""
+  },
+  "MAG_FEU1": {
+    "nom": "Boule de feu mineure",
+    "mana": 6,
+    "force": 12,
+    "vie": 0,
+    "retire_status": null,
+    "inflige_status": null,
+    "icon": ""
+  },
+  "MAG_FEU2": {
+    "nom": "Boule de feu moyenne",
+    "mana": 10,
+    "force": 30,
+    "vie": 0,
+    "retire_status": null,
+    "inflige_status": null,
+    "icon": ""
+  },
+  "MAG_GLACE1": {
+    "nom": "Vent de glace mineur",
+    "mana": 6,
+    "force": 10,
+    "vie": 0,
+    "retire_status": null,
+    "inflige_status": null,
+    "icon": ""
+  },
+  "MAG_POISON": {
+    "nom": "Flechette de poison magique",
+    "mana": 2,
+    "force": 5,
+    "vie": 0,
+    "retire_status": null,
+    "inflige_status": "poison",
+    "icon": ""
+  }
+}

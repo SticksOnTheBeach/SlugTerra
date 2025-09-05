@@ -1,0 +1,392 @@
+{
+  "Monstres": [
+                "CHARA_GOON",
+                "CHARA_BUBBALASH",
+                "CHARA_PEKUN"
+  ],
+  "Personnages": [
+                "CHARA_RAMMSTONE",
+                "CHARA_ENIGMO",
+                "CHARA_INFURNUS"
+  ],
+  "Carte": [
+    [
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      }
+    ],
+    [
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      }
+    ],
+    [
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      }
+    ],
+    [
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_HOME",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_SEA",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_DESERT",
+        "couche2_id": null
+      },
+      {
+        "tuile_id": "T_GRASS",
+        "couche2_id": "T_TREE"
+      },
+      {
+        "tuile_id": "T_TREE",
+        "couche2_id": null
+      }
+    ]
+  ]
+}

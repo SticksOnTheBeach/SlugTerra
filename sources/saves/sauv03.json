@@ -1,0 +1,13 @@
+{
+    "nom": "carte1",
+    "position_heros": [
+        9,
+        7
+    ],
+    "or": null,
+    "inventaire": [
+        "ITEM_KEY"
+    ],
+    "nb_pas": null,
+    "equipe": []
+}
